@@ -1,2 +1,2 @@
 # OOSE_Programming_Assignment2
-A simple burger application
+This program is a simple burger application which utilizes JavaFX. It allows the user to create their own burger. They get to choose their meat, cheese, toppings, sauces, and bun. The price for each component is also listed. After the user has selected their burger components, they click the "finalize burger" button, and the components of the burger tey built will be listed. There will also be two new buttons that pop up. "Add another burger" will allow the user to create another burger by using the same process. "Show Final Price" will display the receipt on a separate stage. Each burger which the user created will be listed, along with their components, and the total price will be displayed at the bottom. 
